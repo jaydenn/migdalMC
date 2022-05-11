@@ -1,3 +1,5 @@
+#include <vector>
+using std::vector;
 
 #ifndef PHYSICALCONSTANTS_HH
 #define PHYSICALCONSTANTS_HH
